@@ -1,5 +1,0 @@
-transformers==4.36.2 
-streamlit
-pandas
-torch
-openai
